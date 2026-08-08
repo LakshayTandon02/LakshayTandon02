@@ -1,317 +1,372 @@
-# 👋 Hi, I'm Lakshay Tandon
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-### 🤖 Aspiring AI Engineer | Machine Learning | Generative AI | LLMs | RAG | Full-Stack Development
+<!--                    LAKSHAY TANDON                              -->
 
-I'm a **Computer Science Engineering graduate** passionate about building intelligent, practical, and production-oriented applications using **Artificial Intelligence, Machine Learning, Generative AI, and modern web technologies**.
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-I enjoy turning ideas into real-world products — from **AI chatbots and RAG systems** to **machine-learning prediction applications, data-cleaning platforms, and full-stack web applications**.
+<div align="center">
 
----
+# ⚡ LAKSHAY TANDON
 
-## 🧑‍💻 About Me
+### `AI ENGINEER • ML DEVELOPER • GENERATIVE AI • FULL-STACK`
 
-* 🎓 Computer Science Engineering Graduate
-* 🤖 Aspiring **AI Engineer**
-* 🧠 Working with **Machine Learning, Deep Learning, Generative AI, LLMs & RAG**
-* 💻 Experienced with **Python, JavaScript, React.js, Flask & FastAPI**
-* 🧩 Building **AI-powered and full-stack applications**
-* 📊 Interested in **Data Analytics, Data Science & Business Intelligence**
-* 🚀 Experience building and deploying practical ML/AI projects
-* 🔍 Exploring **LLM applications, prompt engineering, embeddings & RAG pipelines**
-* 🌱 Continuously improving my **AI Engineering & production deployment skills**
-* 💬 Ask me about **Python, ML, GenAI, LLMs, RAG, React, Flask, FastAPI & Data Analytics**
-* ⚡ I enjoy transforming innovative ideas into real-world software
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;LLMs+%7C+RAG+%7C+AI+Agents;Turning+Ideas+Into+Real-World+Applications+%F0%9F%9A%80" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=LakshayTandon02&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" />
+
+</div>
 
 ---
 
-# 🚀 What I'm Currently Building
+<div align="center">
+
+### 🧠 `I BUILD AI. I BUILD PRODUCTS. I BUILD THE FUTURE.`
+
+</div>
+
+<br>
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
+
+## 👨‍💻 About Me
+
+🎓 **Computer Science Engineering Graduate**
+
+🤖 Aspiring **AI Engineer** focused on building intelligent and production-ready applications.
+
+🧠 Exploring the intersection of:
 
 ```text
-🤖 AI-powered applications
-🧠 Machine Learning & Deep Learning projects
-✨ Generative AI & LLM applications
-📚 Retrieval-Augmented Generation (RAG)
-💬 Conversational AI & Chatbots
-⚙️ AI + Full-Stack applications
-📊 Data Analytics & Data Science solutions
-🚀 Production-ready AI applications
+Machine Learning
+      ↓
+Deep Learning
+      ↓
+Generative AI
+      ↓
+Large Language Models
+      ↓
+RAG & AI Agents
+      ↓
+Real-World AI Applications
 ```
 
----
+💻 I work with **Python, JavaScript, React, Flask & FastAPI**.
 
-# 🛠️ Tech Stack
+🚀 I enjoy taking an idea from **concept → model → API → UI → deployment**.
 
-### 💻 Programming Languages
+📊 Also interested in **Data Science, Data Analytics & Business Intelligence**.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-</p>
+🔥 Currently focused on becoming a stronger **AI Engineer** by building real projects instead of just learning theory.
 
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" />
-</p>
-
-### ⚙️ Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs" />
-</p>
-
-### 🤖 AI / Machine Learning / Generative AI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-**Areas I work with:**
-
-`Machine Learning` `Deep Learning` `Generative AI` `LLMs` `RAG` `Prompt Engineering` `NLP` `AI Chatbots` `Model Deployment`
-
-### 📊 Data & Analytics
-
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Tableau` `Data Cleaning` `Data Analysis`
-
-### 🗄️ Databases
-
-`MySQL` `PostgreSQL` `Supabase`
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
-
-`Streamlit` `FastAPI` `Flask` `REST APIs` `Git` `GitHub`
+<br clear="right"/>
 
 ---
 
-# 🚀 Featured Projects
+# 🧬 MY AI ENGINEERING STACK
 
-## 🤖 Nova AI Chatbot
+<div align="center">
 
-A professional conversational AI chatbot built with **Python, Streamlit and Mistral LLM**, featuring conversational memory, system prompts, streaming responses and secure API integration.
+### 💻 Languages
 
-**Tech Stack:**
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 
-`Python` `Streamlit` `Mistral LLM` `LLM` `API Integration`
+### ⚛️ Frontend
 
-🔗 **[View Repository](https://github.com/LakshayTandon02/nova-ai-chatbot)**
-🌐 **[Live Demo](https://nova-ai-chatbot-he44a355zge2apdjbzwvrm.streamlit.app/)**
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 
----
+### ⚙️ Backend
 
-## 🏠 Room Type Predictor
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs" />
 
-A full-stack Machine Learning application that predicts **Airbnb room types** using a Random Forest model.
+### 🤖 AI / ML
 
-The application combines an ML model with a **FastAPI backend** and a modern responsive frontend, including real-time prediction confidence scores.
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-**Tech Stack:**
+<br><br>
 
-`Python` `Machine Learning` `Random Forest` `FastAPI` `JavaScript` `CSS`
+`Machine Learning` • `Deep Learning` • `Generative AI` • `LLMs`
+`RAG` • `NLP` • `Prompt Engineering` • `AI Agents`
+`Model Deployment` • `Conversational AI`
 
-🔗 **[View Repository](https://github.com/LakshayTandon02/Room-Type-Predictor)**
+### 📊 Data
 
----
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Data Analysis`
 
-## 🧹 Data Science & Cleaning Pipeline
+### 🗄️ Databases & Tools
 
-An interactive data-science workspace designed to ingest datasets, identify data-quality issues and perform data-cleaning operations through an intuitive interface.
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" />
 
-**Tech Stack:**
+<br>
 
-`TypeScript` `Data Science` `Data Cleaning` `Data Analysis`
+`Supabase` `REST APIs` `Streamlit` `FastAPI` `Flask`
 
-🔗 **[View Repository](https://github.com/LakshayTandon02/Data-Cleaning)**
-
----
-
-## 📚 Generative AI & RAG
-
-Hands-on projects exploring **Large Language Models, Retrieval-Augmented Generation, embeddings and LLM application development**.
-
-**Tech Stack:**
-
-`Python` `LLMs` `Generative AI` `RAG` `Embeddings`
-
-🔗 **[LLM Project](https://github.com/LakshayTandon02/Genai-Part1-LLM)`
-🔗 **[RAG Project](https://github.com/LakshayTandon02/Genai-Part2-RAG)**
+</div>
 
 ---
 
-## 🏥 AI Voice Prescription
+# 🚀 WHAT I'VE BEEN BUILDING
 
-An AI-powered clinic management system focused on simplifying doctors' workflows through **voice-based prescription generation, patient history management and digital prescription workflows**.
+<div align="center">
 
-**Tech Stack:**
+### 🤖 AI • ML • GENAI • FULL STACK
 
-`TypeScript` `AI` `Voice AI` `Healthcare Technology`
+</div>
 
-🔗 **[View Repository](https://github.com/LakshayTandon02/AI-Voice-Presciption)**
+<br>
 
----
+## 🌌 NOVA AI CHATBOT
 
-## 💬 AI Chatbot Services
+> **A professional conversational AI experience.**
 
-A full-stack AI chatbot platform featuring a subscription-based access system and premium chatbot functionality.
-
-**Tech Stack:**
-
-`TypeScript` `AI` `Chatbots` `Full-Stack Development`
-
-🔗 **[View Repository](https://github.com/LakshayTandon02/Chatbot-Services)**
-
----
-
-## 🏥 Client Work — KH Hospital
-
-A modern healthcare web application designed to provide patients with a smooth digital experience for exploring hospital services, departments, doctors and appointments.
-
-**Tech Stack:**
-
-`TypeScript` `React` `Frontend Development` `Healthcare Technology`
-
-🔗 **[View Repository](https://github.com/LakshayTandon02/Client-work)**
-
----
-
-# 📊 Machine Learning Projects
-
-### 🩺 Medical System
-
-Machine-learning-based healthcare project focused on disease prediction and medical recommendations.
-
-`Python` `Machine Learning` `Jupyter Notebook`
-
-🔗 **[Repository](https://github.com/LakshayTandon02/Medical-System)**
-
-### ❤️ Heart Disease Prediction
-
-Machine-learning project that analyzes medical attributes and predicts the likelihood of heart disease.
-
-`Python` `Machine Learning` `Data Analysis`
-
-🔗 **[Repository](https://github.com/LakshayTandon02/Heart-Disease)**
-
-### ✈️ Flight Price Prediction
-
-Machine-learning project for predicting flight prices using historical flight data.
-
-`Python` `Machine Learning` `Jupyter Notebook`
-
-🔗 **[Repository](https://github.com/LakshayTandon02/Flight_prediciton)**
-
-### 🍷 Wine Quality Prediction
-
-Machine-learning project analyzing wine-related features to predict wine quality.
-
-`Python` `Machine Learning` `Data Analysis`
-
-🔗 **[Repository](https://github.com/LakshayTandon02/Wine-Quality-Project)**
-
----
-
-# 📈 Data Analytics Projects
-
-### 💳 Credit Card Analysis
-
-Data analytics project focused on discovering patterns and insights from credit-card-related datasets.
-
-`Python` `Pandas` `Power BI` `Data Analytics`
-
-🔗 **[Repository](https://github.com/LakshayTandon02/Credit-Card-Analysis)**
-
-### ☕ Coffee Shop Sales Analysis
-
-Data analysis project focused on understanding sales performance and extracting actionable business insights.
-
-`Data Analytics` `Data Visualization` `Business Intelligence`
-
-🔗 **[Repository](https://github.com/LakshayTandon02/Coffee-Shop-sales)**
-
----
-
-# 🌐 Full-Stack Development
-
-I also build modern web applications using:
-
-`React.js` `JavaScript` `TypeScript` `Flask` `FastAPI` `HTML` `CSS` `Tailwind CSS` `REST APIs`
-
-My projects include **healthcare platforms, AI chatbot systems, client websites, prediction applications and other real-world web applications**.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LakshayTandon02&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayTandon02&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LakshayTandon02&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LakshayTandon02/LakshayTandon02/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-# 🎯 Current Focus
+Built a conversational AI chatbot with **Streamlit + Python + Mistral LLM**, featuring memory, system prompts, streaming responses and secure API integration.
 
 ```text
-🤖 AI Engineering
-🧠 Machine Learning & Deep Learning
-✨ Generative AI
-📚 Large Language Models
-🔎 Retrieval-Augmented Generation
-💬 Conversational AI
-⚙️ AI Agents & AI Applications
-🚀 Production AI Deployment
-📊 Data Science & Analytics
+Python → LLM → Conversation Memory → Streaming → Streamlit
 ```
+
+**Tech:** `Python` `Streamlit` `Mistral` `LLM` `API`
+
+🌐 **[LIVE DEMO](https://nova-ai-chatbot-he44a355zge2apdjbzwvrm.streamlit.app/)**
+💻 **[SOURCE CODE](https://github.com/LakshayTandon02/nova-ai-chatbot)**
 
 ---
 
-# 🌐 Connect With Me
+## 🏠 ROOM TYPE PREDICTOR
 
-<p align="center">
+> **Machine Learning meets modern web development.**
 
-<a href="https://www.linkedin.com/in/lakshay-tandon-bb4853275/">
-  <img src="https://img.shields.io/badge/LinkedIn-Lakshay%20Tandon-blue?style=for-the-badge&logo=linkedin" />
-</a>
+A full-stack ML application that predicts **room types** using a Random Forest model with a FastAPI backend and responsive frontend.
+
+```text
+Dataset
+   ↓
+Data Processing
+   ↓
+Random Forest Model
+   ↓
+FastAPI
+   ↓
+Frontend
+   ↓
+Prediction + Confidence
+```
+
+**Tech:** `Python` `Random Forest` `FastAPI` `JavaScript` `CSS`
+
+💻 **[EXPLORE PROJECT](https://github.com/LakshayTandon02/Room-Type-Predictor)**
+
+---
+
+## 🧹 DATA CLEANING PIPELINE
+
+> **Turning messy data into usable data.**
+
+An interactive data-cleaning project designed to identify data-quality problems and simplify preprocessing workflows.
+
+**Tech:** `TypeScript` `Data Cleaning` `Data Science` `Data Analysis`
+
+💻 **[EXPLORE PROJECT](https://github.com/LakshayTandon02/Data-Cleaning)**
+
+---
+
+## 🧠 GENERATIVE AI + RAG
+
+> **Learning how modern AI applications actually work.**
+
+Hands-on work with:
+
+```text
+LLMs
+ ↓
+Prompt Engineering
+ ↓
+Embeddings
+ ↓
+Vector Search
+ ↓
+Retrieval
+ ↓
+RAG
+ ↓
+AI Application
+```
+
+💻 **[GENAI PROJECTS](https://github.com/LakshayTandon02)**
+
+---
+
+## 🏥 AI VOICE PRESCRIPTION
+
+> **AI-powered healthcare workflow automation.**
+
+A modern application exploring voice-based prescription workflows and AI-powered healthcare experiences.
+
+**Tech:** `AI` `Voice AI` `TypeScript` `Full Stack`
+
+💻 **[EXPLORE PROJECT](https://github.com/LakshayTandon02/AI-Voice-Presciption)**
+
+---
+
+## 💬 AI CHATBOT SERVICES
+
+> **AI chatbot platform built for real-world use cases.**
+
+Full-stack chatbot platform exploring AI-powered customer experiences and modern web application architecture.
+
+**Tech:** `AI` `Chatbots` `TypeScript` `Full Stack`
+
+💻 **[EXPLORE PROJECT](https://github.com/LakshayTandon02/Chatbot-Services)**
+
+---
+
+# 🧪 MACHINE LEARNING LAB
+
+<div align="center">
+
+| 🧠 Project                  | ⚙️ Focus              |
+| --------------------------- | --------------------- |
+| 🩺 Medical Recommendation   | Machine Learning      |
+| ❤️ Heart Disease Prediction | Classification        |
+| ✈️ Flight Price Prediction  | Regression            |
+| 🍷 Wine Quality Prediction  | ML                    |
+| 🏠 Room Type Predictor      | Random Forest         |
+| 💳 Credit Card Analysis     | Data Analytics        |
+| ☕ Coffee Shop Analysis      | Business Intelligence |
+
+</div>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=LakshayTandon02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshayTandon02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+
+</div>
+
+---
+
+# 🔥 CONTRIBUTION STREAK
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=LakshayTandon02&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+
+</div>
+
+---
+
+# 🐍 MY CONTRIBUTION JOURNEY
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/LakshayTandon02/LakshayTandon02/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🎯 CURRENT MISSION
+
+<div align="center">
+
+```text
+             ┌─────────────────────────┐
+             │      AI ENGINEER        │
+             └────────────┬────────────┘
+                          │
+          ┌───────────────┼───────────────┐
+          ↓               ↓               ↓
+      MACHINE          GENERATIVE       SOFTWARE
+     LEARNING              AI           ENGINEERING
+          │               │               │
+          ↓               ↓               ↓
+       Deep Learning     LLMs           APIs
+       NLP               RAG            React
+       Model Building    Agents         FastAPI
+          │               │               │
+          └───────────────┼───────────────┘
+                          ↓
+                 🚀 REAL-WORLD AI 🚀
+```
+
+</div>
+
+---
+
+# ⚡ THE THINGS I'M EXPLORING
+
+<div align="center">
+
+`🤖 AI Agents`
+
+`🧠 LLM Applications`
+
+`🔎 RAG Systems`
+
+`✨ Generative AI`
+
+`📚 Embeddings`
+
+`💬 Conversational AI`
+
+`⚙️ AI Automation`
+
+`🚀 Model Deployment`
+
+`📊 Data Science`
+
+</div>
+
+---
+
+# 🏆 MY DEVELOPMENT PHILOSOPHY
+
+<div align="center">
+
+### **LEARN → BUILD → BREAK → DEBUG → IMPROVE → DEPLOY**
+
+<br>
+
+> **"Don't just learn how AI works. Build something with it."**
+
+</div>
+
+---
+
+# 🌐 LET'S CONNECT
+
+<div align="center">
 
 <a href="https://github.com/LakshayTandon02">
-  <img src="https://img.shields.io/badge/GitHub-LakshayTandon02-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://www.linkedin.com/in/lakshay-tandon-bb4853275/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💬 Open to interesting AI, ML & software opportunities.
+
+</div>
 
 ---
 
-# 💡 My Goal
+<div align="center">
 
-> **Build intelligent systems that solve real-world problems.**
+## 🚀 BUILDING TODAY. INTELLIGENCE FOR TOMORROW.
 
-I'm continuously working towards becoming a strong **AI Engineer** by combining Machine Learning, Generative AI, LLMs, RAG and software engineering to build scalable and useful AI applications.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
----
-
-<p align="center">
-  <b>⭐ If you find my projects interesting, feel free to explore my repositories!</b>
-</p>
-
-<p align="center">
-  <i>Building. Learning. Experimenting. 🚀</i>
-</p>
+</div>
